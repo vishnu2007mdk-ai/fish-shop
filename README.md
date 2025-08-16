@@ -30,7 +30,7 @@ A modern, responsive fish shop website built with HTML, CSS, JavaScript frontend
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vishnu2007mdk-ai/fish-shop.git
    cd fish-shop
    ```
 
